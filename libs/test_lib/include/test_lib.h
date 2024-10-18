@@ -4,11 +4,11 @@
 
 #pragma once
 
-#ifndef LIST_H
-#define LIST_H
+#ifndef TEST_LIB_H
+#define TEST_LIB_H
 
 static int a;
 
 void test();
 
-#endif //LIST_H
+#endif //TEST_LIB_H

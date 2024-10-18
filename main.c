@@ -1,5 +1,8 @@
 #include <stdio.h>
-#include <list.h>
+#include <test_lib.h>
+
+#define float int
+#define int float
 
 int main(void)
 {

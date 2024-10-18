@@ -2,7 +2,7 @@
 // Created by piotr on 13.10.2024.
 //
 
-#include <list.h>
+#include <test_lib.h>
 #include <stdio.h>
 
 void test()

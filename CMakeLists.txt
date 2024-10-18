@@ -17,4 +17,4 @@ project(test C)
 set(CMAKE_C_STANDARD 11)
 add_executable(test main.c)
 
-target_link_libraries(test PRIVATE list)
+target_link_libraries(test PRIVATE test_lib)
